@@ -1,0 +1,10 @@
+---
+yongjiang:
+  host: 172.16.111.60
+  name: Yang Yongjiang
+  job: '网络工程师'
+  age: 20
+  skills: 
+   - python
+   - javascript
+   - vue
